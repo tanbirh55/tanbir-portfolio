@@ -98,11 +98,11 @@ h1{
 .full-stack{
     text-align: center;
     margin-top: 50px;
- border: 15px solid green;
+ border: 15px solid rgba(2, 80, 2, 0.719);
     padding: 50px;
     margin: 20px;
-
-    
+    box-shadow: gray;
+    background-color: darksalmon;  
 }
 
 .style{
