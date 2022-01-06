@@ -33,3 +33,34 @@ h1{
     margin-right: 400px;
     margin-top: 50px;
 }
+.vission{
+    
+    text-align: justify;
+    padding-left: 40%;
+    margin-bottom: 10px;
+}
+.mission{
+    display:flex;
+    justify-content: space-evenly;
+}
+.aim{
+    width: 200px;
+    border: 1px solid gray;
+    padding: 5px;
+    border-radius:10px 20px;
+}
+.aim img{
+    width: 100%;
+    padding-right:5px;
+   
+}
+#first{
+    background-color: grey;
+    padding-left: 10px;
+}
+#second{
+    background-color: lightslategray;
+}
+#third{
+    background-color:silver;
+}
