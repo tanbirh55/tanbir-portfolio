@@ -63,4 +63,24 @@ h1{
 }
 #third{
     background-color:silver;
+    
+}
+.develop{
+    
+    display: flex;
+    margin-top: 10px;
+    text-align: justify;
+    
+}
+.coding img{
+    width: 50%;
+    margin-top: 40px;
+    margin-left: 200px;
+    
+}
+.limit{
+    font-size: 2em;
+    font-weight: 700;
+    margin-top: 15px;
+
 }
