@@ -95,6 +95,16 @@ h1{
     margin-top: 50px;
 
 }
+.full-stack{
+    text-align: center;
+    margin-top: 50px;
+ border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+
+    
+}
+
 .style{
     background-image: url(footer.jpg);
 }
