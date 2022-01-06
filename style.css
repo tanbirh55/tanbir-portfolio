@@ -45,9 +45,10 @@ h1{
 }
 .aim{
     width: 200px;
-    border: 1px solid gray;
+    border-radius: 20px;
+    border:  solid gray;
     padding: 5px;
-    border-radius:10px 20px;
+   
 }
 .aim img{
     width: 100%;
@@ -57,12 +58,16 @@ h1{
 #first{
     background-color: grey;
     padding-left: 10px;
+    border-radius: 20px;
 }
 #second{
     background-color: lightslategray;
+    border-radius: 20px;
 }
 #third{
     background-color:silver;
+    box-shadow: 5px grey;
+    border-radius: 20px;
     
 }
 .develop{
@@ -75,8 +80,7 @@ h1{
 .coding img{
     width: 50%;
     margin-top: 40px;
-    margin-left: 200px;
-    
+    margin-left: 200px;   
 }
     
 
